@@ -1,4 +1,4 @@
-#  Facorial of a number using Recursion
+#  Factorial of a number using Recursion
 
 def fact(n):
   # print(n)
